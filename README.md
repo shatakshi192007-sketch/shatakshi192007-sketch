@@ -1,3 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="My Profile Animation" src="light.svg" width="100%">
+</picture>
+
+
+
+
 
 # 💫 About Me:
 BCA Student | Aspiring SOC Analyst & Cybersecurity Professional 🔐<br>Focused on SOC Operations, Network Security, SIEM, Incident Response & Blue Teaming.<br>Building hands-on skills through labs, investigations, and security projects.
